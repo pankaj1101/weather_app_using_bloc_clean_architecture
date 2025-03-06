@@ -17,7 +17,7 @@ This app fetches weather data from the following API:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/pankaj110/weather_app_using_bloc_clean_architecture.git
    cd weather_app_using_bloc_clean_architecture
    ```
 
