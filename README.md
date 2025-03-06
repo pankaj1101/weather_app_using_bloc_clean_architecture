@@ -38,7 +38,7 @@ This app fetches weather data from the following API:
 ## Technologies Used
 - **Flutter** for cross-platform development
 - **Dart** as the programming language
-- **Provider / BLoC / GetX** for state management (whichever you're using)
+- **BLoC** for state management 
 - **Weather API** for fetching real-time weather data
 
 ## Screenshots
