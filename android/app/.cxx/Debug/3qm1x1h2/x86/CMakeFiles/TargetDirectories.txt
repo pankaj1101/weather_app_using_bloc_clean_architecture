@@ -1,2 +1,0 @@
-C:/Users/Lenovo/OneDrive/Desktop/weather-main/weather-main/android/app/.cxx/Debug/3qm1x1h2/x86/CMakeFiles/edit_cache.dir
-C:/Users/Lenovo/OneDrive/Desktop/weather-main/weather-main/android/app/.cxx/Debug/3qm1x1h2/x86/CMakeFiles/rebuild_cache.dir
