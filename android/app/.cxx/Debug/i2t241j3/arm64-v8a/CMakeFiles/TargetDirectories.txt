@@ -1,0 +1,2 @@
+/Users/blueray/Pankaj/weather-main/android/app/.cxx/Debug/i2t241j3/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/blueray/Pankaj/weather-main/android/app/.cxx/Debug/i2t241j3/arm64-v8a/CMakeFiles/rebuild_cache.dir

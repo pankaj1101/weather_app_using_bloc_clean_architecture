@@ -1,0 +1,2 @@
+/Users/blueray/Desktop/NewGas Projects/weather-main/android/app/.cxx/Debug/2n2m4hbh/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/blueray/Desktop/NewGas Projects/weather-main/android/app/.cxx/Debug/2n2m4hbh/armeabi-v7a/CMakeFiles/rebuild_cache.dir
